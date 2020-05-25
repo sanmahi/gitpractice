@@ -12,5 +12,5 @@ this is patch test
 
 
 after conflict resolved
-
+nstalled mergetool to test
 
