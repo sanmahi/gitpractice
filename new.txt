@@ -1,2 +1,3 @@
 asowehjcoieihefih
 this status check commit
+this stash check operation in new.txt file
